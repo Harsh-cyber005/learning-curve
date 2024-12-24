@@ -1,0 +1,2 @@
+
+void printHelloFunc(void);
